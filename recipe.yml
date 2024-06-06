@@ -1,0 +1,15 @@
+name: 'Field storage for page access taxonomy term'
+description: 'Taxonomy term'
+type: 'Field storage'
+install:
+  - node
+  - taxonomy
+# Contrib
+  - tac_lite
+config:
+  import:
+    taxonomy:
+      - core.entity_view_mode.taxonomy_term.full
+      - system.action.taxonomy_term_publish_action
+      - system.action.taxonomy_term_unpublish_action
+      - views.view.taxonomy_term
