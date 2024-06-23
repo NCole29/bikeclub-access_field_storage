@@ -1,5 +1,5 @@
 {
-    "name": "ncole29/bikeclub_access_field_storage",
+    "name": "bikeclub/bikeclub-access_field_storage",
     "description": "Installs Tac Lite for page access control.",
     "keywords": ["recipe", "Page access"],
     "type": "drupal-recipe",
