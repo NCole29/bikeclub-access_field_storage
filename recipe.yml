@@ -3,6 +3,7 @@ description: 'Taxonomy term'
 type: 'Field storage'
 install:
   - node
+  - path  
   - taxonomy
 # Contrib
   - tac_lite
