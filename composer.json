@@ -1,6 +1,6 @@
 {
     "name": "bikeclub/bikeclub-access_field_storage",
-    "description": "Provides field storage for page access taxonomy entity reference field."
+    "description": "Installs storage for page access field."
     "keywords": ["recipe", "Page access"],
     "type": "drupal-recipe",
     "license": "GPL-2.0-or-later",
