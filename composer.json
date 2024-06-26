@@ -1,6 +1,6 @@
 {
     "name": "bikeclub/bikeclub-access_field_storage",
-    "description": "Installs Tac Lite for page access control.",
+    "description": "Provides field storage for page access taxonomy entity reference field."
     "keywords": ["recipe", "Page access"],
     "type": "drupal-recipe",
     "license": "GPL-2.0-or-later",

@@ -1,4 +1,4 @@
-name: 'Field storage for page access taxonomy term'
+name: 'Provides field storage for page access taxonomy entity reference field.'
 description: 'Taxonomy term'
 type: 'Field storage'
 install:
